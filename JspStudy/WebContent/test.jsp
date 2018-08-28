@@ -9,10 +9,12 @@
 </head>
 <body>
 <%
-	String str="테스트";
+	String str="홍길동";
 // document.write("str=>"+str)
     System.out.println("str="+str);
 	out.println("<h1>"+"str="+str+"</h1>");
 %>
+<hr>
+str의 값 출력=<%=str%>
 </body>
 </html>

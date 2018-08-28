@@ -14,7 +14,6 @@
 	<%
 		String var1=var2+"web programming";
 	%>
-	
 	출력할값:<%=var1%><br>
      수식계산:<%=(3+5)%>
 </body>
